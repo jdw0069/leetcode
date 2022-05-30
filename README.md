@@ -1,6 +1,9 @@
 # Resources
 - https://www.techinterviewhandbook.org
 - https://neetcode.io
+- https://github.com/donnemartin/system-design-primer
+
+---
 
 | Week   | Completition | Need to Review?  |
 | :----: |    :----:    |     :----:       |
