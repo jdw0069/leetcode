@@ -24,3 +24,10 @@ def test_example3():
     actual = solution.twoSum(nums, target)
     expected = [0,1]
     assert expected == actual
+
+def test_example4():
+    nums = [2,5,5,11] 
+    target = 10
+    actual = solution.twoSum(nums, target)
+    expected = [1,2]
+    assert expected == actual
