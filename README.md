@@ -1,6 +1,7 @@
 # Resources
 - https://www.techinterviewhandbook.org
 - https://neetcode.io
+- https://seanprashad.com/leetcode-patterns/
 - https://github.com/donnemartin/system-design-primer
 
 ---
