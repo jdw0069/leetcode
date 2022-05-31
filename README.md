@@ -1,8 +1,14 @@
-# Resources
+## Leetcode Pratice
+- https://leetcode.com
 - https://www.techinterviewhandbook.org
 - https://neetcode.io
 - https://seanprashad.com/leetcode-patterns/
+
+## System Design
 - https://github.com/donnemartin/system-design-primer
+
+## Data Structures and Algorithms
+- https://runestone.academy/ns/books/published/pythonds/index.html
 
 ---
 
