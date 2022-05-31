@@ -1,6 +1,6 @@
 ## Leetcode Pratice
 - https://leetcode.com
-- https://www.techinterviewhandbook.org
+- https://www.techinterviewhandbook.org/grind75?weeks=20
 - https://neetcode.io
 - https://seanprashad.com/leetcode-patterns/
 
