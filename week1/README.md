@@ -1,6 +1,6 @@
 | Problems                                       | Brute Force? |    Optimal?     | Need to Review?  |
 | :----:                                         |    :----:    |     :----:      |   :----:         |
-| Two Sum                                        |  ~~Yes~~     |   No            |    Yes           |
+| Two Sum                                        |  ~~Yes~~     |   ~~Yes~~            |    Yes           |
 | Valid Parentheses                              |      No      |   No            |    Yes           |
 | Best Time to Buy and Sell Stock                |      No      |   No            |    Yes           |
 | Valid Palindrome                               |      No      |   No            |    Yes           |
