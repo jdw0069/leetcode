@@ -1,7 +1,8 @@
 | Problems                                       | Brute Force? |    Optimal?     | Need to Review?  |
 | :----:                                         |    :----:    |     :----:      |   :----:         |
-| Two Sum                                        |  ~~Yes~~     |   ~~Yes~~            |    Yes           |
-| Valid Parentheses                              |      No      |   No            |    Yes           |
+| Two Sum                                        |  ~~Yes~~     |   ~~Yes~~       |    Yes           |
+| Valid Parentheses                              |  ~~Yes~~     |   ~~Yes~~       |    Yes           |
+| Merge Two Sorted Lists                         |      No      |   No            |    Yes           |
 | Best Time to Buy and Sell Stock                |      No      |   No            |    Yes           |
 | Valid Palindrome                               |      No      |   No            |    Yes           |
 | Invert Binary Tree                             |      No      |   No            |    Yes           |
