@@ -16,8 +16,11 @@ Our space complexity is **O(1)** since we are only storing a constant space for 
 
 ```python
  def twoSum(self, nums: List[int], target: int) -> List[int]:
+        #start a beginning of list
         for i in range(0, len(nums)):
+            #start at second index of list
             for j in range(i + 1, len(nums)):
+                #sum both values and if equal to target, return index pair
                 if nums[i] + nums[j] == target:
                     return [i, j]
 ```
@@ -41,12 +44,16 @@ Our time complexity is **O(N)** since we still have to check each N elements in 
 #### Space Complexity
 Our space complexity is **O(N)** since we are using a dictionary to store N number of elements.
 
-```
+```python
 def twoSum(self, nums: List[int], target: int) -> List[int]:
+        #create dictionary to store values we have already seen
         myDict = {}
+        #loop through list starting at index 0
         for i in range(len(nums)):
+            #if compelement in dictionary, return indexed pair
             if target - nums[i] in myDict:
-                return [myDict[target-nums[i]], i]
+                return [myDict[target - nums[i]], i]
+            #add current index and value to dictionary
             else:
                 myDict[nums[i]] = i
 ```
