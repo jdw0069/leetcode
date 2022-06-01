@@ -14,6 +14,7 @@ Our time complexity is **O(n^2)**. We use two for loops in which the first visit
 #### Space Complexity
 Our space complexity is **O(1)** since we are only storing a constant space for the variable i.
 
+#### Code
 ```python
  def twoSum(self, nums: List[int], target: int) -> List[int]:
         #start a beginning of list
@@ -44,6 +45,7 @@ Our time complexity is **O(N)** since we still have to check each N elements in 
 #### Space Complexity
 Our space complexity is **O(N)** since we are using a dictionary to store N number of elements.
 
+#### Code
 ```python
 def twoSum(self, nums: List[int], target: int) -> List[int]:
         #create dictionary to store values we have already seen
