@@ -8,7 +8,7 @@
 - https://github.com/donnemartin/system-design-primer
 
 ## Data Structures and Algorithms
-- https://runestone.academy/ns/books/published/pythonds/index.html
+- https://runestone.academy/ns/books/published/pythonds3/index.html#
 - https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/
 
 ---
