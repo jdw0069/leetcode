@@ -37,14 +37,15 @@ def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) ->
                 list2 = list2.next
             #update traversal pointer to make next comparison
             tempTraversalNode = tempTraversalNode.next
-        #if list1 or list2 are empty, find non-empty list and return it
+        #if list1 or list2 are empty (we reached the end of one list or a given paramater list is empty), find non-empty list and return it
         if list1:
             #insert nodes in list1 to new list
             tempTraversalNode.next = list1
-        #if list1 is empty, return list2
+        #if list1 is empty, return list2 to new list
         else:
-             #insert nodes in list1 to new list
+             #insert nodes in list2 to new list
             tempTraversalNode.next = list2
+        #return final result as dummy node is at the head of list
         return dummyNode.next
 ```
 
