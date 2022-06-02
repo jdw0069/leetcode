@@ -1,9 +1,9 @@
-| Problems                                       | Brute Force? |    Optimal?     | Need to Review?  |
-| :----:                                         |    :----:    |     :----:      |   :----:         |
-| Two Sum                                        |  ~~Yes~~     |   ~~Yes~~       |    Yes           |
-| Valid Parentheses                              |  ~~Yes~~     |   ~~Yes~~       |    Yes           |
-| Merge Two Sorted Lists                         |  ~~Yes~~     |   ~~Yes~~       |    Yes           |
-| Best Time to Buy and Sell Stock                |      No      |   No            |    Yes           |
+| Problems                                       | Brute Force? |    Optimal?     | Need to Review?  | Data Structure  | Algorithm   | Strategy     |
+| :----:                                         |    :----:    |     :----:      |   :----:         |   :----:        | :----:      | :----:       |
+| Two Sum                                        |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Array          | Linear Scan |  N/A         |
+| Valid Parentheses                              |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  String         | Linear Scan |  N/A         |
+| Merge Two Sorted Lists                         |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Linked List    | Linear Scan |  N/A         |
+| Best Time to Buy and Sell Stock                |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Array          | Linear Scan | Two Pointers |
 | Valid Palindrome                               |      No      |   No            |    Yes           |
 | Invert Binary Tree                             |      No      |   No            |    Yes           |
 | Valid Anagram                                  |      No      |   No            |    Yes           |
