@@ -4,7 +4,7 @@
 | Valid Parentheses                              |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Stack          | Linear Scan |  N/A         |
 | Merge Two Sorted Lists                         |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Linked List    | Linear Scan |  N/A         |
 | Best Time to Buy and Sell Stock                |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Array          | Linear Scan | Two Pointers |
-| Valid Palindrome                               |      No      |   No            |    Yes           |
+| Valid Palindrome                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  String         | Linear Scan | Two Pointers |
 | Invert Binary Tree                             |      No      |   No            |    Yes           |
 | Valid Anagram                                  |      No      |   No            |    Yes           |
 | Binary Search                                  |      No      |   No            |    Yes           |
