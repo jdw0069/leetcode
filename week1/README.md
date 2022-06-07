@@ -6,7 +6,7 @@
 | Best Time to Buy and Sell Stock                |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Array          | Linear Scan | Two Pointers |
 | Valid Palindrome                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  String         | Linear Scan | Two Pointers |
 | Invert Binary Tree                             |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Binary Tree/Queue | DFS       | Recursion    |
-| Valid Anagram                                  |      No      |   No            |    Yes           |
+| Valid Anagram                                  |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Hashmap/Dictionary | Linear Scan| N/A.       |
 | Binary Search                                  |      No      |   No            |    Yes           |
 | Flood Fill                                     |      No      |   No            |    Yes           |
 | Maximum Subarray                               |      No      |   No            |    Yes           |
