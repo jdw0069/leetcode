@@ -7,7 +7,7 @@
 | Valid Palindrome                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  String         | Linear Scan | Two Pointers |
 | Invert Binary Tree                             |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Binary Tree/Queue | DFS       | Recursion    |
 | Valid Anagram                                  |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Hashmap/Dictionary | Linear Scan| N/A        |
-| Binary Search                                  |      No      |   No            |    Yes           |
+| Binary Search                                  |  ~~Yes~~     |   ~~Yes~~       |    Yes           |
 | Flood Fill                                     |      No      |   No            |    Yes           |
 | Maximum Subarray                               |      No      |   No            |    Yes           |
 | Lowest Common Ancestor of a Binary Search Tree |      No      |   No            |    Yes           |
