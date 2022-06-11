@@ -8,8 +8,8 @@
 | Invert Binary Tree                             |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Binary Tree/Queue | DFS       | Recursion    |
 | Valid Anagram                                  |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Hashmap/Dictionary | Linear Scan| N/A        |
 | Binary Search                                  |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Array           | Binary Search | N/A        |
-| Flood Fill                                     |      No      |   No            |    Yes           |
-| Maximum Subarray                               |      No      |   No            |    Yes           |
+| Flood Fill                                     |  ~~Yes~~     |   ~~Yes~~       |    Yes           | 2D array/graph  | DFS         | Recursion    |
+| Maximum Subarray                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Array           | Kadane's   | Sliding Window|
 | Lowest Common Ancestor of a Binary Search Tree |      No      |   No            |    Yes           |
 | Balanced Binary Tree                           |      No      |   No            |    Yes           |
 | Linked List Cycle                              |      No      |   No            |    Yes           |
