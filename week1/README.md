@@ -10,6 +10,6 @@
 | Binary Search                                  |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Array           | Binary Search | N/A        |
 | Flood Fill                                     |  ~~Yes~~     |   ~~Yes~~       |    Yes           | 2D array/graph  | DFS         | Recursion    |
 | Maximum Subarray                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Array           | Kadane's   | Sliding Window|
-| Lowest Common Ancestor of a Binary Search Tree |      No      |   No            |    Yes           |
+| Lowest Common Ancestor of a Binary Search Tree |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Binary Tree     | Linear Scan  | N/A         |
 | Balanced Binary Tree                           |      No      |   No            |    Yes           |
 | Linked List Cycle                              |      No      |   No            |    Yes           |
