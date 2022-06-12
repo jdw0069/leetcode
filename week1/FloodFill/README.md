@@ -1,12 +1,19 @@
-# Brute Force Approach
+# Approach
 ### Description
-
+To perform a "flood fill", consider the starting pixel, plus any pixels connected 4-directionally to the starting pixel of the same color as the starting pixel, plus any pixels connected 4-directionally to those pixels (also with the same color as the starting pixel), and so on. Replace the color of all of the aforementioned pixels with the newColor. The big idea here is recursion implemented using Depth First Search.
 #### Algorithm
+ 1. Ensure image is valid (base case)
+ 3. Perform Flood-fill one step to the south of node.
+ 4. Perform Flood-fill one step to the north of node
+ 5. Perform Flood-fill one step to the west of node
+ 6. Perform Flood-fill one step to the east of node
+ 7. Return.
 
 #### Time Complexity
+Our time complexity is **O(m*n)**, where m*n is the number of pixels in the image. We might process every pixel.
 
 #### Space Complexity
-
+Our space complexity is **O(m*n)**, the size of the implicit call stack when calling dfs.
 #### Code
 ```python
  def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -31,16 +38,5 @@
         self.fill(image, row, column + 1, initialColor, newColor) #right
         self.fill(image, row, column - 1, initialColor, newColor) #left 
 ```
-
----
-
-# Optimized Approach
-### Description
-
-#### Algorithm
-
-#### Time Complexity
-
-#### Space Complexity
 
 #### Code
