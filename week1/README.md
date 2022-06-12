@@ -11,5 +11,5 @@
 | Flood Fill                                     |  ~~Yes~~     |   ~~Yes~~       |    Yes           | 2D array/graph  | DFS         | Recursion    |
 | Maximum Subarray                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Array           | Kadane's   | Sliding Window|
 | Lowest Common Ancestor of a Binary Search Tree |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Binary Tree     | Linear Scan  | N/A         |
-| Balanced Binary Tree                           |      No      |   No            |    Yes           |
+| Balanced Binary Tree                           |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Binary Tree     | DFS          | Recursion   |
 | Linked List Cycle                              |      No      |   No            |    Yes           |
