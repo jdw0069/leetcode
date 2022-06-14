@@ -12,4 +12,4 @@
 | Maximum Subarray                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Array           | Kadane's   | Sliding Window|
 | Lowest Common Ancestor of a Binary Search Tree |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Binary Tree     | Linear Scan  | N/A         |
 | Balanced Binary Tree                           |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Binary Tree     | DFS          | Recursion   |
-| Linked List Cycle                              |      No      |   No            |    Yes           |
+| Linked List Cycle                              |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Linked List    | Floyd's scan |  Two Pointers|
