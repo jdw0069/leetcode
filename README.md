@@ -15,7 +15,7 @@
 
 | Week   | Completition | Need to Review?  |
 | :----: |    :----:    |     :----:       |
-| 1      |      No      |   Yes            |
+| 1      |      Yes      |   Yes            |
 | 2      |      No      |   Yes            |
 | 3      |      No      |   Yes            |
 | 4      |      No      |   Yes            |
