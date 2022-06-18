@@ -5,4 +5,4 @@
 | Ransome Note                                   |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Hashmap        | Linear Scan   |  N/A       |
 | Climbing Staris                                |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  N/A            | DP           | DP |
 | Longest Palindrome                             |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  N/A            | N/A            | N/A |
-
+| Min Stack                                      |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Stack          | N/A            | N/A |
