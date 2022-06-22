@@ -6,3 +6,4 @@
 | Climbing Staris                                |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  N/A            | DP           | DP |
 | Longest Palindrome                             |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  N/A            | N/A            | N/A |
 | Min Stack                                      |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Stack          | N/A            | N/A |
+| Reverse Linked List                            |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Linked List    | Linear Scan    | Two Pointers |
