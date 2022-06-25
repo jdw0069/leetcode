@@ -7,4 +7,4 @@
 | Longest Palindrome                             |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  N/A            | N/A            | N/A |
 | Min Stack                                      |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Stack          | N/A            | N/A |
 | Reverse Linked List                            |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Linked List    | Linear Scan    | Two Pointers |
-| Majority Element                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Hashamp        | Linear Scan    | N/A |
+| Majority Element                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Hashmap       | Linear Scan    | N/A |
