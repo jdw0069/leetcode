@@ -9,3 +9,4 @@
 | Reverse Linked List                            |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Linked List    | Linear Scan    | Two Pointers |
 | Majority Element                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  Hashmap       | Linear Scan    | N/A |
 | Add Binary                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           |  String       | Linear Scan    | N/A |
+| Diameter of Binary Tree                               |  ~~Yes~~     |   ~~Yes~~       |    Yes           | Binary Tree       | DFS    | N/A |
