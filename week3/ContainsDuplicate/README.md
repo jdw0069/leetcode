@@ -7,6 +7,7 @@ Check if the length of the given array and the set conversion of the given array
 
 #### Time Complexity
 Our time complexity is **O(n)** since we have to convert the given array to a set.
+#### Space Complexity
 Our space complexity is **O(1)** since we aren't using any auxilary data structures.
 
 #### Code
