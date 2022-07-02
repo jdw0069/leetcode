@@ -7,3 +7,4 @@
 | Same Tree               |  ✔️     |   ✔️         |    Yes  |  Binary Tree    | DFS         |  N/A         |
 | Number of 1 Bits        |  ✔️     |   ✔️         |    Yes  |  String         | Linear Scan | use bin() func|
 | Longest Common Prefix   |  ✔️     |   ✔️         |    Yes  |  String/Arrray  | Linear Scan | N/A          |
+| Single Number           |  ✔️     |   ✔️         |    Yes  |  Hashmap        |   XOR       | Bit Manipulation|
