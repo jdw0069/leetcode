@@ -9,3 +9,4 @@
 | Longest Common Prefix   |  ✔️     |   ✔️         |    Yes  |  String/Arrray  | Linear Scan | N/A          |
 | Single Number           |  ✔️     |   ✔️         |    Yes  |  Hashmap        |   XOR       | Bit Manipulation|
 | Palindrome Linked List  |  ✔️     |   ✔️         |    Yes  |  Linked List    | Linear Scan | Two pointers|
+| Move Pointers           |  ✔️     |   ✔️         |    Yes  |  Array          | Quicksort   | Two pointers|
