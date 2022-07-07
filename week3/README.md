@@ -11,3 +11,4 @@
 | Palindrome Linked List  |  ✔️     |   ✔️         |    Yes  |  Linked List    | Linear Scan | Two pointers|
 | Move Pointers           |  ✔️     |   ✔️         |    Yes  |  Array          | Quicksort   | Two pointers|
 | Symmetric Tree          |  ✔️     |   ✔️         |    Yes  |  Binary Tree    | DFS         | Recursion   |
+| Missing Number          |  ✔️     |   ✔️         |    Yes  |  Array          | N/A         | N/A         |
