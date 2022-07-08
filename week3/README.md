@@ -12,3 +12,4 @@
 | Move Pointers           |  ✔️     |   ✔️         |    Yes  |  Array          | Quicksort   | Two pointers|
 | Symmetric Tree          |  ✔️     |   ✔️         |    Yes  |  Binary Tree    | DFS         | Recursion   |
 | Missing Number          |  ✔️     |   ✔️         |    Yes  |  Array          | N/A         | N/A         |
+| Palindrome Number       |  ✔️     |   ✔️         |    Yes  |  String         | Linear Scan | Two pointers|
